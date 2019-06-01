@@ -1,4 +1,4 @@
-#"A computational framework for the investigation of large-scale brain organisation"
+# "A computational framework for the investigation of large-scale brain organisation"
 
 This repository contains the report I wrote for the final project completed as part of the BSc Psychology course at the University of York. The framework has been co-developed with Dr. Tom Hartley. Tom provided most of the code for the framework, I created the simulation scripts and implemented the cosine similarity function.
 
